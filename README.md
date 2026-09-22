@@ -1,2 +1,2 @@
 # arc_26
-Esto lo he añadido desde la rama principal
+Esto es lo que añadido desde la rama principal
