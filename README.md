@@ -1,2 +1,2 @@
 # arc_26
-Este es el readme de este repositorio
+Esto lo he añadido desde la rama principal
